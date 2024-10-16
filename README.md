@@ -1,1 +1,2 @@
-# Packing_List_App
+#Packing List App
+The Packing List App is a simple React application that helps users manage their packing for trips. Users can add items, mark them as packed, sort the list, and clear the entire list. The app provides real-time statistics on the number of items added and packed, ensuring users are prepared for their journeys. With an intuitive interface and easy-to-use features, this app makes packing hassle-free and organized.
